@@ -2,6 +2,10 @@
 
 My name is Zsolt, I'm an Engineering Manager specializing in backend systems (mainly written in ruby) as well as platform engineering (or DevOps as some others call it). In my free time I love doing weird mapping related projects as well as some stupid mini-games. You can find all of them in [my portfolio page](https://sztupy.hu/projects/)
 
+I'm currently employed at [AZA Finance](https://azafinance.com/).
+
+I am also a volunteer at [Code Your Future](https://codeyourfuture.io/) and [CodeBar Scotland](https://codebar.io/)
+
 Some of my highlights:
 
 * [National Blue Trail section lookup tool](https://sztupy.hu/kekkor-kereso/)
